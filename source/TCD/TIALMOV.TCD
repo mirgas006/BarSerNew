@@ -1,0 +1,32 @@
+TCD
+TIALMOV.TCD
+Input file name : TIALMOV.FIT
+T - file name   : T.OUT
+'Smooth' parameter S   :  1.0577881105E-02
+Input file comment:
+Titanova slitina 4Al-3Mo-1V; POLYMOM. INTERPOLACE !
+Udaje: Ziegler,...: Specific heat and thermal conductivity.
+Advances in Cryogenic Engineering, Vol. 8.
+Al 4.4, V 1.0, Mo 3.0, Fe 0.1
+21
+          0.000   0.00E+00   5.49E-02
+          4.000   2.19E-01   5.54E-02
+          6.000   3.30E-01   5.57E-02
+          8.000   4.42E-01   5.60E-02
+         10.000   5.54E-01   5.62E-02
+         15.000   8.35E-01   5.63E-02
+         20.000   1.12E+00   5.61E-02
+         25.000   1.40E+00   5.53E-02
+         30.000   1.67E+00   5.41E-02
+         35.000   1.94E+00   5.24E-02
+         40.000   2.21E+00   4.91E-02
+         50.000   2.70E+00   4.48E-02
+         60.000   3.15E+00   4.08E-02
+         70.000   3.55E+00   3.73E-02
+         80.000   3.93E+00   3.29E-02
+        100.000   4.59E+00   2.81E-02
+        120.000   5.15E+00   2.36E-02
+        150.000   5.85E+00   1.91E-02
+        200.000   6.81E+00   1.60E-02
+        300.000   8.41E+00   1.15E-02
+        400.000   9.55E+00   1.15E-02

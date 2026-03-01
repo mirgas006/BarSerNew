@@ -1,0 +1,32 @@
+TCD
+ALUMINA1.TCD
+Input file name : ALUMINA1.MAT
+T - file name   : T.OUT
+'Smooth' parameter S   :  3.3918261451E-02
+Input file comment:
+Alumina1.mat
+Tepelna vodivost Al2-O3 (Alumina)
+Katalog LakeShore 2004, str.211, graf log - logT
+a vodivost shodne s Alumina1.tcd. Viz Alumina1.src
+21
+          0.000   0.00E+00   2.45E-01
+          4.000   9.80E-01   6.85E-01
+          6.000   2.35E+00   9.83E-01
+          8.000   4.32E+00   1.21E+00
+         10.000   6.73E+00   1.99E+00
+         15.000   1.67E+01   2.76E+00
+         20.000   3.05E+01   4.23E+00
+         25.000   5.16E+01   4.98E+00
+         30.000   7.65E+01   4.61E+00
+         35.000   9.96E+01   4.15E+00
+         40.000   1.20E+02   3.16E+00
+         50.000   1.52E+02   1.82E+00
+         60.000   1.70E+02   1.64E-01
+         70.000   1.72E+02  -1.20E+00
+         80.000   1.60E+02  -1.96E+00
+        100.000   1.21E+02  -1.18E+00
+        120.000   9.71E+01  -8.43E-01
+        150.000   7.18E+01  -5.44E-01
+        200.000   4.46E+01  -1.53E-01
+        300.000   2.93E+01   7.10E-03
+        400.000   3.00E+01   7.10E-03
