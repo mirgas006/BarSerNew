@@ -6,6 +6,9 @@ Tento nástroj umožňuje inžinierom a výskumníkom v počiatočných fázach 
 
 Software je vytvorený ako moderná náhrada za pôvodné programy BarOne1 a BarSer1 vytvorené Ing. Pavlom Hanzelkom na Ústave prístrojovej techniky v Brne.
 
+<img src="BarSerNew_rozhranie.png" width="800">
+<i>GUI programu BarSerNew</i>
+
 ## Kľúčové vlastnosti
 * **Jednoduché GUI:** Na rozdiel od svojich MS-DOS predchodcov (BarOne1 a BarSer1), BarSerNew ponúka moderné rozhranie, ktoré zjednodušuje prácu.
 * **Rýchlosť a efektivita:** Redukovaný výpočtový čas v porovnaní s predchádzajúcimi verziami.
@@ -41,5 +44,6 @@ Použitý software (Python a jeho knižnice):
 
 Pre skompilovanie v CMD v tejto zložke spustiť:  
 pyinstaller --windowed --onefile --name "BarSerNew" --icon "source/ikonka.ico" --add-binary "source/ikonka.png;." source/gui.py
+
 
 
