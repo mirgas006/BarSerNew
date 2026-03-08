@@ -2,7 +2,9 @@
 
 **BarSerNew** je simulačný softvér s grafickým používateľským rozhraním (GUI) určený na návrh a rýchle prototypovanie tepelných mostov (thermal links) a chladiacich prstov (cold fingers) v kryogenike.
 
-Tento nástroj umožňuje inžinierom a výskumníkom v počiatočných fázach vývoja realizovať rýchle a spoľahlivé simulácie bez nutnosti vytvárania zložitej CAD geometrie.
+Tento nástroj umožňuje inžinierom a výskumníkom v počiatočných fázach vývoja realizovať rýchle a spoľahlivé simulácie bez nutnosti vytvárania zložitej CAD geometrie.  
+
+Software je vytvorený ako moderná náhrada za pôvodné programy BarOne1 a BarSer1 vytvorené Ing. Pavlom Hanzelkom na Ústave prístrojovej techniky v Brne.
 
 ## Kľúčové vlastnosti
 * **Jednoduché GUI:** Na rozdiel od svojich MS-DOS predchodcov (BarOne1 a BarSer1), BarSerNew ponúka moderné rozhranie, ktoré zjednodušuje prácu.
@@ -39,4 +41,5 @@ Použitý software (Python a jeho knižnice):
 
 Pre skompilovanie v CMD v tejto zložke spustiť:  
 pyinstaller --windowed --onefile --name "BarSerNew" --icon "source/ikonka.ico" --add-binary "source/ikonka.png;." source/gui.py
+
 
